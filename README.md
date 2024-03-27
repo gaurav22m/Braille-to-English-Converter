@@ -1,2 +1,5 @@
 # Braille-to-English-Converter
 This project endeavors to develop a system capable of swiftly translating Braille text into English, facilitating seamless access to written information for individuals with visual impairments. By providing real-time conversion of Braille text to English, this system offers blind individuals immediate access to printed materials, enhancing their independence in tasks like reading menus, labels, and signs. It enables seamless interaction with digital content, facilitating educational pursuits and employment opportunities. Additionally, the system promotes inclusivity by bridging communication barriers and fostering greater accessibility in various environments.
+I have added comments to almost every part of the code for everbody to understand.
+As of now I have created two models: ResNet & VG16 and I am also trying with the hypertuning part by changinh no of epochs and momentum and other optimization functions to improve the accuracy of the models. 
+I am still working on DenseNet model.
